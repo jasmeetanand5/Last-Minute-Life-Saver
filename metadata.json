@@ -1,0 +1,6 @@
+{
+  "name": "Last Minute Life Saver",
+  "description": "Help users avoid missing deadlines by proactively planning and prioritizing tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
